@@ -27,18 +27,16 @@ Vorteile gegenüber Kanban:
 - klare Verantwortlichkeiten (Product Owner, Scrum Master, Entwickler)
 - regelmäßige feedbacks
 
+### Scrum Tools
+  
+- GitHub Projects: GitHub Projects ist direkt in GitHub integriert und ermöglicht die Verwaltung von User Stories, Product Backlogs und Iterationen. Lässt sich mit Issues und Quellcode verknüpfen.
+- Jira: Am weitesten verbreitete Scrum- und Projektmanagementwerkzeug in der Softwareentwicklung. Jira unterstützt Product Backlogs, Sprintplanung, Burndown-Charts und umfangreiche Auswertungen. Industriestandard.
+- Trello: Einfaches, kartenbasiertes Projektmanagementwerkzeug. Durch frei konfigurierbare Listen eignet es sich ebenfalls zur Umsetzung von Scrum-Boards. Schnelle Einrichtung.
 
-## 3. Tools
+## 3. Experementieren
 
 GitHub Projects:
-- Product Backlog
-- Sprintplanung über Iterationen
-- Aufgabenverwaltung
-- Fortschrittsverfolgung
-- Integration mit GitHub Issues
-
 Siehe https://github.com/users/smolareck-kuchinke/projects/4/views/1
-
 
 
 ## 4. Erkenntnisse aus den Spotify-Videos
