@@ -67,10 +67,9 @@ Ansonsten:
 - Waste-repellent Culture: Wenn es klappt, behalten! Andernfalls (schnell) verwerfen!
  
 
-
 ## 5. Backlog
 
-Folgendes Backlog habe ich für SpieltagPLUS erstellt:
+### Folgendes Backlog habe ich für SpieltagPLUS erstellt:
 
 ![Backlog](images/Backlog.png)
 
@@ -86,7 +85,7 @@ User Stories:
 Warum ich das ausgewählt habe? 
 Da ich diese vier User Stories benötige, um das Produkt minimal nutzbar zu machen. 
 
-### Nicht in Sprint 1 enthalten, sondern in späteren Iterationen, weul es Erweiterungen sind, die nicht für die Minimalfunktionen gebraucht werden:
+### Nicht in Sprint 1 enthalten, sondern in späteren Iterationen, weil es Erweiterungen sind, die nicht für die Minimalfunktionen gebraucht werden:
 - Kommentar veröffentlichen
 - Verein folgen
 - Tickets scannen
@@ -95,6 +94,22 @@ Da ich diese vier User Stories benötige, um das Produkt minimal nutzbar zu mach
 - Spielhighlights erkennen
 
 ### Ergebnis nach Sprint 1
+
+User kann sich registrieren, anmelden, Ticket kaufen und erhält QR-Code für den Eingang zum Spiel.
+Somit haben wir dadurch schonmal ein nutzbares Produktinkrement.
+
+### Risiko
+
+- Benutzerverwaltung muss zuverlässig funktionieren
+- QR-Code muss technisch sauber erstellt werden
+- Ticketkauf braucht zukünftig die Anbindung externer Bezahldienste per API, damit der Komfort steigt und viele. gängige Zahlungsarten angeboten werden können
+
+### Definition of Done (DoD) Kriterien
+User Story gilt als abgeschlossen, wenn
+- die Funktion implementiert wurde
+- die Funktion getestet wurde
+- dokumentiert wurde
+- und der Code im Repo verfügabr ist.
 
 
 
