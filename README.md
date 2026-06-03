@@ -71,6 +71,7 @@ Ansonsten:
 ## 5. Backlog
 
 Folgendes Backlog habe ich für SpieltagPLUS erstellt:
+
 ![Backlog](images/Backlog.png)
 
 Sprint 1 Planung: 2 Wochen / Ziel: EIn Fan kann sich registrieren, anmelden und ein ticket kaufen. 
