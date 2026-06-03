@@ -5,7 +5,7 @@ Scrum / Kanban recherchieren / experementieren / testen
 
 Für das Projekt SpieltagPLUS habe ich Scrum als Vorgehensmodell gewählt, da ich es als bessere Grundlage für eine iterative Entwicklung sehe als Kanban und mein Projekt Produktentwicklung, neue Features und viele Stakeholder beeinhaltet. Also viele Herausforderungen und viel Feedback dazu. AUSSERDEM arbeite ich mit Kanban in meinem Job, Scrum kenne ich nur aus der Theorie und möchte es daher hier für mein Projekt mal anwenden, um mehr Einblick zu bekommen. 
 
-## 2. Scrum / Kanban
+## 2. Scrum 
 
 ### Scrum
 
@@ -20,28 +20,13 @@ Bestandteile:
 - Sprint Review
 - Sprint Retro
 
-Vorteile:
+Vorteile gegenüber Kanban:
 
 - feste Rhythmen
 - nach jedem Sprint Produktzuwachs
 - klare Verantwortlichkeiten (Product Owner, Scrum Master, Entwickler)
 - regelmäßige feedbacks
 
-### Kanban
-
-Kanban stammt ursprünglich aus dem Toyota-Produktionssystem und verfolgt einen kontinuierlichen Arbeitsfluss.
-
-Merkmale:
-
-- Visualisierung der Arbeit auf einem Board
-- Begrenzung paralleler Arbeit (Work in Progress)
-- Kontinuierliche Verbesserung
-- Keine festen Sprints
-
-Vorteile:
-- Flexibilität, Prios können in Echtzeit geändert werden
-- geringerer Einstiegsaufwand
-- kontinuierlicher Fluss ohne starre Zyklen
 
 ## 3. Tools
 
@@ -54,7 +39,7 @@ GitHub Projects:
 
 Siehe https://github.com/users/smolareck-kuchinke/projects/4/views/1
 
-Jira:
+
 
 ## 4. Erkenntnisse aus den Spotify-Videos
 
