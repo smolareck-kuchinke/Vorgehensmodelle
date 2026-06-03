@@ -74,7 +74,7 @@ Folgendes Backlog habe ich für SpieltagPLUS erstellt:
 
 ![Backlog](images/Backlog.png)
 
-Sprint 1 Planung: 2 Wochen / Ziel: EIn Fan kann sich registrieren, anmelden und ein ticket kaufen. 
+### Sprint 1 Planung: 2 Wochen / Ziel: EIn Fan kann sich registrieren, anmelden und ein ticket kaufen. 
 
 User Stories:
 
@@ -85,6 +85,17 @@ User Stories:
 
 Warum ich das ausgewählt habe? 
 Da ich diese vier User Stories benötige, um das Produkt minimal nutzbar zu machen. 
+
+### Nicht in Sprint 1 enthalten, sondern in späteren Iterationen, weul es Erweiterungen sind, die nicht für die Minimalfunktionen gebraucht werden:
+- Kommentar veröffentlichen
+- Verein folgen
+- Tickets scannen
+- Stadionbereiche sperren
+- Notfälle erkennen
+- Spielhighlights erkennen
+
+### Ergebnis nach Sprint 1
+
 
 
 
