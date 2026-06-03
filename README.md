@@ -7,7 +7,7 @@ Für das Projekt SpieltagPLUS habe ich Scrum als Vorgehensmodell gewählt, da ic
 
 ## 2. Scrum / Kanban
 
-Scrum
+### Scrum
 
 Scrum basiert auf kurzen Sprints, klar definierten Rollen und regelmäßigen Feedbackschleifen.
 
@@ -20,9 +20,14 @@ Bestandteile:
 - Sprint Review
 - Sprint Retro
 
--> Nach jedem Sprint Produktzwuachs.
+Vorteile:
 
-Kanban
+- feste Rhythmen
+- nach jedem Sprint Produktzuwachs
+- klare Verantwortlichkeiten (Product Owner, Scrum Master, Entwickler)
+- regelmäßige feedbacks
+
+### Kanban
 
 Kanban stammt ursprünglich aus dem Toyota-Produktionssystem und verfolgt einen kontinuierlichen Arbeitsfluss.
 
@@ -33,6 +38,11 @@ Merkmale:
 - Kontinuierliche Verbesserung
 - Keine festen Sprints
 
+Vorteile:
+- Flexibilität, Prios können in Echtzeit geändert werden
+- geringerer Einstiegsaufwand
+- kontinuierlicher Fluss ohne starre Zyklen
+
 ## 3. Tools
 
 GitHub Projects:
@@ -41,6 +51,8 @@ GitHub Projects:
 - Aufgabenverwaltung
 - Fortschrittsverfolgung
 - Integration mit GitHub Issues
+
+Siehe https://github.com/users/smolareck-kuchinke/projects/4/views/1
 
 Jira:
 
@@ -109,7 +121,7 @@ User Story gilt als abgeschlossen, wenn
 - die Funktion implementiert wurde
 - die Funktion getestet wurde
 - dokumentiert wurde
-- und der Code im Repo verfügabr ist.
+- und der Code im Repo verfügbar ist.
 
 
 
